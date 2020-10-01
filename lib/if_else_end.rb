@@ -1,2 +1,2 @@
-this_year = 2019
-puts "Hey, it's not 2019" unless Time.now.year == 2019
+# output if it is currently an even or an odd select_second
+current_time = Time.now
