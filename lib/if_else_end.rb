@@ -2,8 +2,5 @@
 current_time = Time.now
 second = current_time.to_i #epoch time
 puts second
-#if second / 2 = 0
-  #puts "Odd!"
-#else 
-  #puts "Even"
-#end
+if second / 2 = 0
+  
