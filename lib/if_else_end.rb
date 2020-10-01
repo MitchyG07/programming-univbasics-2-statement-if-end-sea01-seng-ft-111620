@@ -4,5 +4,6 @@ second = current_time.to_i #epoch time
 if second / 2 = 0
   puts "Odd!"
 else
-  puts "Even"
+  puts "Even!"
+end
   
